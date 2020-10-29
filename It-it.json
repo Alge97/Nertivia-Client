@@ -1,17 +1,17 @@
 {
-    "explore": "Explore",
-    "explore-desc": "Find new servers, Emojis and more!",
-    "servers": "Servers",
+    "explore": "Esplora",
+    "explore-desc": "Trova nuovi server, Emojis and altro ancora!",
+    "servers": "Server",
     "join-server": "Join Server",
-    "themes": "Themes",
+    "themes": "Temi",
     "emoji-packs": "Emoji Packs",
     "message-styles": "Message Styles",
     "created-by": "Created By",
     "filter": "Filter",
-    "sort-by": "Sort By",
+    "sort-by": "Ordina Per",
 
-    "all": "All",
-    "verified": "Verified",
+    "all": "Tutti",
+    "verified": "Verificati",
     "most-users": "Most Users",
     "least-users": "Least Users",
     "alphabetical": "Alphabetical",
@@ -22,7 +22,7 @@
     "donate": "Donate",
 
     "join": "Join",
-    "join-card-message": "Join the official Nertivia server",
+    "join-card-message": "Entra nel server ufficiale di Nertivia",
     "coming-soon!": "Coming soon!",
 
     "joined": "Joined",
@@ -35,19 +35,19 @@
     "cloned": "Cloned",
     "theme-safe-message": "Themes below are safe and manually reviewed.",
 
-    "friends": "Friends",
+    "friends": "Amici",
     "pending": "Pending",
-    "recents": "Recents",
+    "recents": "Recenti",
 
     "online": "Online",
     "away": "Away",
-    "busy": "Busy",
+    "busy": "Occupato",
     "looking-to-play": "Looking to play",
     "offline": "Offline",
 
     "add-friends-message": "Add some friends.",
     "offline-message": "All of your friends are offline.",
-    "saved-notes": "Saved Notes",
+    "saved-notes": "Note Salvate",
     "select-person-message": "Select a person to message!",
     "message": "Message",
 
